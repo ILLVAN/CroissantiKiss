@@ -1,2 +1,2 @@
 # CroissantiKiss
-Dax trading indicator based on the TWS API
+Dax trading indicator based on the TWS API. ILLVAN 2021.
